@@ -4,6 +4,6 @@ function __export(m) {
 }
 Object.defineProperty(exports, "__esModule", { value: true });
 require("reflect-metadata");
-__export(require("./decorators"));
-__export(require("./document-builder"));
-__export(require("./swagger-module"));
+__export(require("./dist/decorators"));
+__export(require("./dist/document-builder"));
+__export(require("./dist/swagger-module"));
